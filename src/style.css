@@ -60,6 +60,7 @@ body {
     cursor: pointer;
 }
 .login__result {
+    color: #ec5324;
     text-align: center;
     margin-top: 1.5rem;
 }
